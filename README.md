@@ -1,3 +1,4 @@
 # Pie Recipe Cards
 
-![image](https://github.com/XINEXPORT/pie-recipe-cards/assets/40744735/b452a444-4a7b-4f18-b79c-3f57348203d3)
+![image](https://github.com/XINEXPORT/pie-recipe-cards/assets/40744735/6e6b127c-9d93-41a7-a3c4-c1b28ec0226e)
+
