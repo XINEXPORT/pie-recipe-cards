@@ -24,7 +24,7 @@ if(showPicture){
   }
 
   return(
-    <div className="card" onClick={toggleCard}>
+    <div className="card" onClick={toggleCard} style={{background: '#ffd8db'}}>
     <h2>{props.name}</h2>
     <p>{props.temp}</p>
     {ingredientsDisplay}
