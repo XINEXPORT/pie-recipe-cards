@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Pie Recipe Cards
-=======
+
 # Pie Recipe Cards
 
 Home Page
@@ -12,6 +10,3 @@ Pie Recipe Card Reveal
 Deleting a Pie Card
 ![image](https://github.com/XINEXPORT/pie-recipe-cards/assets/40744735/58d07277-e466-4d22-8db8-097742a73689)
 
-
-
->>>>>>> a6a850a91ebedcd4f8fd522b27ef0a0120b5fbeb
