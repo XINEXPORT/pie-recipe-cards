@@ -22,7 +22,7 @@ if(showPicture){
     <div className="card" onClick={toggleCard}>
     <h2>{props.name}</h2>
     <img src={props.imgUrl}></img>
-    <button onClick={handleCard} style={{display: 'flex'}}>X</button>
+    <div className = "del-btn" onClick={handleCard} style={{display: 'flex'}}>X</div>
     </div>
   );} else {
   const ingredientsDisplay=[];

@@ -31,3 +31,12 @@ img{
   height: 250px;
   max-width: 80%;
 }
+.del-btn{
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+.del-btn:hover {
+  color: yellow;
+}
